@@ -19,7 +19,7 @@ Este projeto demonstra a implementação de um **firewall avançado** utilizando
 🔹 **VPN configurada para comunicação segura entre as redes**
 
 📌 **Topologia do Projeto:**
-(Adicionar um diagrama de rede aqui com pfSense, servidores e clientes conectados)
+[Aqui](50590619-ca1d-43f7-85aa-7c86caeecd40.png)
 
 ---
 
