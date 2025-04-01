@@ -18,8 +18,8 @@ Este projeto demonstra a implementação de um **firewall avançado** utilizando
 🔹 **Firewall pfSense como Gateway**
 🔹 **VPN configurada para comunicação segura entre as redes**
 
-📌 **Topologia do Projeto:**
-[Aqui](50590619-ca1d-43f7-85aa-7c86caeecd40.png)
+📌 **Topologia do Projeto**
+[aqui](50590619-ca1d-43f7-85aa-7c86caeecd40.png)
 
 ---
 
